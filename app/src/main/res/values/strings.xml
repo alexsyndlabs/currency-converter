@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="hint_amount">Сумма</string>
+    <string name="label_from">Из валюты</string>
+    <string name="label_to">В валюту</string>
+    <string name="action_swap">⇅ Поменять местами</string>
+    <string name="action_refresh">Обновить курсы</string>
+    <string name="status_cbr">Курсы ЦБ РФ на %1$s</string>
+    <string name="status_cached">Сохранённые курсы на %1$s</string>
+    <string name="status_offline_error">Нет связи — показаны сохранённые курсы</string>
+</resources>
